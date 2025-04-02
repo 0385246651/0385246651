@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Liên hệ  
-📧 Email: [email@example.com](mailto:email@example.com)  
+📧 Email: [nguyenduchai1112000@gmail.com](mailto:nguyenduchai1112000@gmail.com.com)  
 🔗 GitHub: [github.com/RaidenNguyen](https://github.com/RaidenNguyen)  
