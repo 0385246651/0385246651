@@ -1,4 +1,4 @@
-# 🚀 Nguyễn Đức Hải (Hải Bá Bá) | RaidenNguyen_0385246651
+# 🚀 Nguyễn Đức Hải (Hải Bá Bá) | RaidenNguyen_阮德海
 
 ## 🏆 FullStack Developer  
 **ASP.NET MVC | ReactJS | NextJS | NestJS | Node.js | MongoDB | SQL Server | OracleDB**  
