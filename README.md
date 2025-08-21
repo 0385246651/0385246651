@@ -52,8 +52,8 @@
 
 ## 🏅 Certifications & Languages  
 - **Toeic:** 650  
-<!-- - **HSK4:** 良好的中文沟通能力 ! -->
-
+<!-- - **HSK5:** 良好的中文沟通能力 ! -->
+- **HSK5:** : being coming soon.
 ---
 
 ## 📫 Liên hệ  
