@@ -23,6 +23,11 @@
 ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+### 🔄 State Management
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux_Saga-999999?style=for-the-badge&logo=redux&logoColor=white)
+
 ## ⚙️ Backend & Environments  
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -31,6 +36,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-23CFA3?style=for-the-badge&logo=ejs&logoColor=white)
+
+### 💾 ORM & Data Access
+![ADO .NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dapper ORM](https://img.shields.io/badge/Dapper-232323?style=for-the-badge&logo=dapper&logoColor=white)
 
 ## 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
